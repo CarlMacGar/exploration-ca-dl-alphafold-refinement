@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Heavy checkpoints and data
+data/*
+!data/.gitkeep
+*.pdb
+*.pt
+*.pth
+*.ckpt
+
+# Jupyter/Colab
+.ipynb_checkpoints/
