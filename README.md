@@ -1,5 +1,7 @@
 # Exploración del uso de autómatas celulares y técnicas de aprendizaje profundo para el refinamiento de regiones de baja confianza en modelos generados por AlphaFold.
 
+### [🌐 English version / Versión en inglés ](README.en.md)
+
 ## Descripción
 
 AlphaFold2 predice estructuras de proteínas con precisión atómica, pero genera una única conformación estática por proteína. Esto resulta insuficiente para representar el carácter heterogéneo y dinámico de las regiones intrínsecamente desordenadas (IDRs) y de regiones altamente flexibles como los bucles largos, cuya precisión disminuye de forma sistemática a medida que aumenta su longitud.

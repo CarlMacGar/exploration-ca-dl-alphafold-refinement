@@ -1,5 +1,7 @@
 # Exploring Cellular Automata and Deep Learning Techniques for Refining Low-Confidence Regions in AlphaFold-Generated Models
 
+### [🌐 Versión en español / Spanish version](README.md)
+
 ## Description
 
 AlphaFold2 predicts protein structures with atomic-level accuracy, but it generates a single static conformation per protein. This is insufficient to represent the heterogeneous, dynamic nature of intrinsically disordered regions (IDRs) and highly flexible regions such as long loops, whose accuracy decreases systematically as their length increases.
