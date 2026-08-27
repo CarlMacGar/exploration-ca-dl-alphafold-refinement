@@ -1,0 +1,24 @@
+# Núcleo científico
+numpy>=2.4
+pandas>=3.0
+scipy
+
+# Deep Learning
+torch>=2.10
+
+# Bioinformática estructural
+biopython>=1.86
+
+# Visualización
+seaborn
+
+# Entorno interactivo
+jupyter
+
+# Nota: PyMOL no se instala vía pip de forma estándar.
+# En Colab: !pip install pymol-open-source
+# En local: conda install -c conda-forge pymol-open-source
+
+# Nota: TM-align es un binario externo (no es un paquete pip).
+# Se instala descargando el ejecutable desde https://zhanggroup.org/TM-align/
+# o compilándolo desde el código fuente en C++.
